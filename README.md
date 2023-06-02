@@ -19,3 +19,4 @@
     <li><a href="https://techlore.tech/">Techlore</a>&nbsp;&nbsp;Spreading privacy & security to the masses, offering free resources.</li>
     <li><a href="https://thenewoil.org/">The New Oil</a>&nbsp;&nbsp;Guides that cover security, privacy, and anonymity.</li>
  </ul>
+ <br></br>
