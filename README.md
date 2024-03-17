@@ -12,7 +12,7 @@
  <ul>
     <li><a href="https://avoidthehack.com/">AvoidTheHack</a>&nbsp;&nbsp;Avoidthehack promotes privacy and cybersecurity for all users.</li>  
     <li><a href="https://www.eff.org/">EFF</a>&nbsp;&nbsp;The leading nonprofit defending digital privacy, free speech, and innovation.</li>
-    <li><a href="https://github.com/Lissy93/personal-security-checklist#smart-home=">Lissy Sykes</a>&nbsp;&nbsp;A compiled checklist of 300+ tips for protecting digital security and privacy.</li>
+    <li><a href="https://github.com/Lissy93">Lissy Sykes</a>&nbsp;&nbsp;A compiled checklist of 300+ tips for protecting digital security and privacy.</li>
     <li><a href="https://inteltechniques.com/">Inteltechniques</a>&nbsp;&nbsp;Michael Bazzell author of many privacy books and free privacy resources. </li>
     <li><a href="https://www.privacyguides.org/en/">Privacy Guides</a>&nbsp;&nbsp;Privacy Guides is your central privacy and security resource to protect yourself online.</li>
     <li><a href="https://www.privacytools.io/">Privacy Tools</a>&nbsp;&nbsp;Privacy Tools Guide: Website for Encrypted Software & Apps.</li>
