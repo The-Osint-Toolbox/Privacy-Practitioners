@@ -6,10 +6,11 @@
 <br></br>
 <table>
     <tr>
-     <td>Privacy-Practitioners</td>
+     <td>Privacy Advocates & Practitioners</td>
    </tr>
  </table>
  <ul>
+    <li><a href="https://awesome-privacy.xyz/">Awesome Privacy</a>Your guide to finding and comparing privacy-respecting alternatives to popular software and services.</li>
     <li><a href="https://avoidthehack.com/">AvoidTheHack</a>&nbsp;&nbsp;Avoidthehack promotes privacy and cybersecurity for all users.</li>  
     <li><a href="https://www.eff.org/">EFF</a>&nbsp;&nbsp;The leading nonprofit defending digital privacy, free speech, and innovation.</li>
     <li><a href="https://github.com/Lissy93">Lissy Sykes</a>&nbsp;&nbsp;A compiled checklist of 300+ tips for protecting digital security and privacy.</li>
