@@ -19,7 +19,7 @@
     <li><a href="https://www.privacytools.io/">Privacy Tools</a>&nbsp;&nbsp;Privacy Tools Guide: Website for Encrypted Software & Apps.</li>
     <li><a href="https://proprivacy.com/">Pro Privacy</a>&nbsp;&nbsp;Learn how to protect your digital privacy and stay safe online.</li>
     <li><a href="https://restoreprivacy.com/">Restore Privacy</a>&nbsp;&nbsp;Privacy & security news, blogs and reviews.</li>
-    <li><a href="https://sethforprivacy.com/">Seth For Privacy</a>Guides on self-hosting, privacy, Bitcoin, and Monero, and “Opt Out Podcast” for content related to my podcast, Opt Out.</li>
+    <li><a href="https://sethforprivacy.com/">Seth For Privacy</a>&nbsp;&nbsp;Guides on self-hosting, privacy, Bitcoin, and Monero, and “Opt Out Podcast” for content related to my podcast, Opt Out.</li>
     <li><a href="https://techlore.tech/">Techlore</a>&nbsp;&nbsp;Spreading privacy & security to the masses, offering free resources.</li>
     <li><a href="https://themarkup.org/">The Markup</a>&nbsp;&nbsp;The Markup challenges technology to serve the public good.</li>  
     <li><a href="https://thenewoil.org/">The New Oil</a>&nbsp;&nbsp;Guides that cover security, privacy, and anonymity.</li>
