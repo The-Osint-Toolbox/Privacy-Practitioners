@@ -1,6 +1,6 @@
 # Privacy-Practitioners
 <p align="center">
-      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
+      <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
     </p>
 <p>You can find links to Privacy & OPSEC Subject Matter Experts. Have a good read of them all as opinions differ. </p>
 <br></br>
