@@ -13,6 +13,7 @@
     <li><a href="https://awesome-privacy.xyz/">Awesome Privacy</a>&nbsp;&nbsp;Your guide to finding and comparing privacy-respecting alternatives to popular software and services.</li>
     <li><a href="https://avoidthehack.com/">AvoidTheHack</a>&nbsp;&nbsp;Avoidthehack promotes privacy and cybersecurity for all users.</li>  
     <li><a href="https://www.eff.org/">EFF</a>&nbsp;&nbsp;The leading nonprofit defending digital privacy, free speech, and innovation.</li>
+    <li><a href="https://firewallsdontstopdragons.com/">Firewalls Don't Stop Dragons</a>&nbsp;&nbsp;Security and Privacy blog for non-techies </li>
     <li><a href="https://github.com/Lissy93">Lissy Sykes</a>&nbsp;&nbsp;A compiled checklist of 300+ tips for protecting digital security and privacy.</li>
     <li><a href="https://inteltechniques.com/">Inteltechniques</a>&nbsp;&nbsp;Michael Bazzell author of many privacy books and free privacy resources. </li>
     <li><a href="https://www.privacyguides.org/en/">Privacy Guides</a>&nbsp;&nbsp;Privacy Guides is your central privacy and security resource to protect yourself online.</li>
